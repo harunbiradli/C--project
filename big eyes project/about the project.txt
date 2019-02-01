@@ -1,0 +1,13 @@
+
+TR
+
+Bilgisayar kullanan insanlarýn göz saðlýðý büüyk tehlikededir.
+Ekrana sürekli odaklandýklarý için göz kýrpma baðýmlýlýðýný
+devre dýþý býrakýyorlar. Bu projede göz kýrpma baðýmlýlýðýnýn
+ekran baþýndayken tekrar tekrar size hatýrlatan ve göz 
+kýrpmanýzý kontrol edip size rapor hazýrlayan bir yapýya sahiptir.
+
+
+US
+
+___
